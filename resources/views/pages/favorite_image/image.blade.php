@@ -17,7 +17,7 @@
                         $( '#'+id +'-del').empty();
                         location.reload();
                         showAlert("SUCCESS","Delete image successful");
-                        
+
                     }
                 }, error: function (data) {
                     showAlert("FAIL","Delete image fail");
