@@ -4,7 +4,8 @@
 ## Installation
 
 - Pull the project git repository
-- Run composer install
+- `composer install`
+- `php artisan key:generate`
 - Create a database locally named photo_gallery
 - Rename .env.example file to .env inside your project root and fill the database information.
 - To install unsplash library run this command,
