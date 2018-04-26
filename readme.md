@@ -1,7 +1,7 @@
-#PHP Photo Gallery Unsplash
+# PHP Photo Gallery Unsplash
 
 
-##Installation
+## Installation
 
 - Pull the project your local repository
 - Run composer install
@@ -14,5 +14,5 @@
   [http://localhost:8000/]
 
 
-####You can now access the project in localhost:8000/
+###### You can now access the project in localhost:8000/
 
